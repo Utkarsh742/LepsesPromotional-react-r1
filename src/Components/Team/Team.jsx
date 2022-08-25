@@ -63,7 +63,7 @@ document.body.appendChild(script)
                 </div>
 
                 <div className="card-content">
-                    <h2 className="name">Mohit Dubey</h2>
+                    <h2 className="name">Aditya Singh</h2>
                     <p className="description">The lorem text the section that contains header with having open functionality. Lorem dolor sit amet consectetur adipisicing elit.</p>
 
                     <button className="button">View More</button>

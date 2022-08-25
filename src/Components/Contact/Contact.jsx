@@ -140,34 +140,6 @@ const Contact = () => {
               </form>
             </div>
           </div>
-
-          <div className="right-content col-lg-6 col-md-12 col-sm-12">
-            <h2>Get Notified for <em>Launch</em></h2>
-            <p>
-              We know we are biased, but we have been facing this problem for a long time. This product is revolutionary and will change the way you do things.
-              <br /><br />Be the first, to witness the revolution on a regular basis. And Guess what? It's FREEEEE.
-              
-            
-            </p>
-            <ul className="social">
-              <li>
-                <a href="https://facebook.com"
-                  ><FaFacebookF/></a>
-              </li>
-              <li>
-                <a href="#"><FaTwitter/></a>
-              </li>
-              <li>
-                <a href="#"><FaLinkedinIn/></a>
-              </li>
-              <li>
-                <a href="#"><i className="fa fa-rss"></i></a>
-              </li>
-              <li>
-                <a href="#"><FaDribbble/></a>
-              </li>
-            </ul>
-          </div>
         </div>
       </div>
       <div className="row">

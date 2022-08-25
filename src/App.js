@@ -15,7 +15,7 @@ function App() {
     <Cards/>
     <Usp/>
     <Team/>
-    <Contact/>
+    {/* <Contact/> */}
     </>
   );
 }
